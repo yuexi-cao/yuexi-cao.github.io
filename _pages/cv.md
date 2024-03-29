@@ -17,10 +17,10 @@ Education
 
 Work and Intern Experience
 ======
-* Winter 2024:Boston Consulting Group
+* Winter 2024:*Boston Consulting Group*
   * **Insurance-Specialized Gen AI Devising**: In view of the large variance in the professional level of insurance brokers, developed a Gen AI model for a head insurance brokerage company to help realize the digitization of insurance comparison & recommendation , and hosted the optimization of Python-based corpus crawling in the early stage.
 
-* Summer 2023: Camellia Venture Capital
+* Summer 2023: *Camellia Venture Capital*
   * **Conducted investment analysis on China's FinTech**: Focusing on Robo-Advisor, and researched the types of products in the market, product details, existing pain points, and the policy environment.
   * Participated in 3 projects of the company, focusing on one of the startups which aims to "provide AI-based fintech services to global retail investors", and met with the founders of the company to summarize the key information and provide opinions to support the company's investment decision
 
@@ -78,10 +78,10 @@ Talks
 
 Leadership & Service
 ======
-* Fall 2022-Present: Debating team of the school of Economics | Deputy Leader
+* Fall 2022-Present: *Debating team of the school of Economics*丨Deputy Leader
   * Participated in various debate tournaments such as the Mingde Cup(**Best Debater in 1st Round **), the 31st Debate Tournament of Renmin Univ( **Team Semifinals**), etc.
 
-* May 2023: 6th China-ASEAN Youth Summit | Youth Delegate
+* May 2023: *6th China-ASEAN Youth Summit*丨Youth Delegate
   * Accomplished the Position Paper for the ASEAN+3 Finance Ministers' and Central Bank Governors' Meeting (AFMGM+3) session and received the **BEST POSITION PAPER AWARD**
   * Led discussions on financial digitization with delegates from various countries during the conference to reach a **JOINT DECLARATION**
 
