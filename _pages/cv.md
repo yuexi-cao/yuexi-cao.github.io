@@ -15,7 +15,7 @@ Education
 * B.S. in Mathematics, Renmin University of China, 2026(expected)
 
 
-Work and Internship Experience
+Work and Intern Experience
 ======
 * Winter 2024:Boston Consulting Group
   * **Insurance-Specialized Gen AI Devising**: In view of the large variance in the professional level of insurance brokers, developed a Gen AI model for a head insurance brokerage company to help realize the digitization of insurance comparison & recommendation , and hosted the optimization of Python-based corpus crawling in the early stage.
@@ -76,7 +76,7 @@ Talks
   {% endfor %}</ul>
 -->
 
-Service and leadership
+Leadership & Service
 ======
 * Fall 2022-Present: Debating team of the school of Economics | Deputy Leader
   * Participated in various debate tournaments such as the Mingde Cup(**Best Debater in 1st Round **), the 31st Debate Tournament of Renmin Univ( **Team Semifinals**), etc.
