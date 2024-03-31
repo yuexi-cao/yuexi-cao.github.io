@@ -14,7 +14,7 @@ Education
 * B.A. in Economics, Renmin University of China, 2026(expected)
 * B.S. in Mathematics, Renmin University of China, 2026(expected)
 
-
+<!--
 Work and Intern Experience
 ======
 * Winter 2024:*Boston Consulting Group*
@@ -23,7 +23,7 @@ Work and Intern Experience
 * Summer 2023: *Camellia Venture Capital*
   * **Conducted investment analysis on China's FinTech**: Focusing on Robo-Advisor, and researched the types of products in the market, product details, existing pain points, and the policy environment.
   * Participated in 3 projects of the company, focusing on one of the startups which aims to "provide AI-based fintech services to global retail investors", and met with the founders of the company to summarize the key information and provide opinions to support the company's investment decision
-
+-->
  
 <!--
 * Spring 2024: Academic Pages Collaborator
@@ -42,7 +42,7 @@ Work and Intern Experience
   * Supervisor: Professor Git
  -->
 
- <!--
+<!--
 Skills
 ======
 * Skill 1
