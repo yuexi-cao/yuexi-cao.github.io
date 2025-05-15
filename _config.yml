@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Renmin University. Class of 2026. Econ & Math major."
   location         : "Beijing, China"
-  employer         : "Renmin University of China"
+  employer         : #"Renmin University of China"
   uri              : # URL
   email            : "caoyuexi2022@ruc.edu.cn" 
 
