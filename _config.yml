@@ -48,7 +48,7 @@ author:
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/profile.php?id=61576589152145"
+  facebook         : "profile.php?id=61576589152145"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yuexi-cao-067914324/"
+  linkedin         : "in/yuexi-cao-067914324/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
