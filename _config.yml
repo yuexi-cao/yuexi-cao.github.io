@@ -22,7 +22,7 @@ repository               : "yuexi-cao/yuexi-cao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuexi Cao"
+  name             : "Yuexi Cao(曹越晰)"
   pronouns         : # example: "she/her"  
   bio              : "Renmin University. Class of 2026. Econ & Math major."
   location         : "Beijing, China"
@@ -54,7 +54,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "brightcao3"
+  instagram        : # "brightcao3"
   lastfm           : # Username
   linkedin         : "yuexi-cao-067914324"
   mastodon         : # URL
